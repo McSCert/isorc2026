@@ -1,0 +1,395 @@
+/* ISORC 2026 Website Styles */
+
+/* CSS Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header and Navigation */
+header {
+    background-color: #0066cc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 20px;
+}
+
+nav .logo h1 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+nav .nav-links {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+nav .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+    padding: 0.5rem 0;
+}
+
+nav .nav-links a:hover,
+nav .nav-links a.active {
+    color: #ffd700;
+    border-bottom: 2px solid #ffd700;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, #0066cc 0%, #004c99 100%);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.hero .subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+}
+
+.hero-details {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    font-size: 1.1rem;
+}
+
+/* Sections */
+section {
+    padding: 3rem 0;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #0066cc;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+section h3 {
+    font-size: 1.5rem;
+    color: #004c99;
+    margin-bottom: 1rem;
+}
+
+/* About Section */
+.about {
+    background-color: white;
+}
+
+.about p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+/* Topics Section */
+.topics {
+    background-color: #f8f9fa;
+}
+
+.topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.topic-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.topic-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+.topic-card ul {
+    list-style-position: inside;
+    margin-top: 1rem;
+}
+
+.topic-card li {
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+/* News Section */
+.news {
+    background-color: white;
+}
+
+.news-item {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-left: 4px solid #0066cc;
+    margin-bottom: 1rem;
+}
+
+.news-date {
+    font-weight: 600;
+    color: #0066cc;
+    margin-bottom: 0.5rem;
+}
+
+/* Call for Papers Styles */
+.cfp-intro {
+    background-color: white;
+    text-align: center;
+}
+
+.cfp-intro p {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    line-height: 1.8;
+}
+
+.submission-topics {
+    background-color: #f8f9fa;
+}
+
+.topics-list {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.topics-list ul {
+    list-style-position: inside;
+    column-count: 2;
+    column-gap: 2rem;
+}
+
+.topics-list li {
+    margin-bottom: 0.8rem;
+    color: #555;
+}
+
+.submission-guidelines {
+    background-color: white;
+}
+
+.guidelines-box {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
+.guidelines-box ul {
+    list-style-position: inside;
+    margin-top: 1rem;
+}
+
+.guidelines-box li {
+    margin-bottom: 0.8rem;
+}
+
+/* Dates Table */
+.dates-table {
+    background-color: white;
+}
+
+table {
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem auto;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #0066cc;
+    color: white;
+    font-weight: 600;
+}
+
+tr:hover {
+    background-color: #f8f9fa;
+}
+
+/* Committee Section */
+.committee-section {
+    background-color: white;
+}
+
+.committee-group {
+    margin-bottom: 3rem;
+}
+
+.committee-members {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.member-card {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid #0066cc;
+}
+
+.member-card h4 {
+    color: #0066cc;
+    margin-bottom: 0.5rem;
+}
+
+.member-card p {
+    color: #555;
+    margin: 0.25rem 0;
+}
+
+/* Registration Section */
+.registration-info {
+    background-color: white;
+}
+
+.registration-types {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.registration-card {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    border-top: 4px solid #0066cc;
+}
+
+.registration-card h3 {
+    color: #0066cc;
+    margin-bottom: 1rem;
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #004c99;
+    margin: 1rem 0;
+}
+
+/* Venue Section */
+.venue-info {
+    background-color: white;
+}
+
+.venue-info p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+/* Footer */
+footer {
+    background-color: #004c99;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    nav .nav-links {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero h2 {
+        font-size: 1.5rem;
+    }
+
+    .hero-details {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .topics-list ul {
+        column-count: 1;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+
+    th, td {
+        padding: 0.5rem;
+    }
+}
