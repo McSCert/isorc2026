@@ -1,0 +1,426 @@
+/* ISORC 2026 Website Styles - McMaster University Color Palette */
+
+/* CSS Variables - McMaster University Colors */
+:root {
+    --mcmaster-maroon: #7A003C;
+    --mcmaster-gold: #FDBF57;
+    --mcmaster-white: #FFFFFF;
+    --mcmaster-gray: #5E6A71;
+    --mcmaster-light-gray: #F5F5F5;
+    --mcmaster-dark-maroon: #5A0029;
+}
+
+/* CSS Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: var(--mcmaster-light-gray);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header and Navigation */
+header {
+    background-color: var(--mcmaster-maroon);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 20px;
+}
+
+nav .logo h1 {
+    color: var(--mcmaster-white);
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+nav .logo h1 a {
+    color: var(--mcmaster-white);
+    text-decoration: none;
+}
+
+nav .nav-links {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+nav .nav-links a {
+    color: var(--mcmaster-white);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+    padding: 0.5rem 0;
+}
+
+nav .nav-links a:hover,
+nav .nav-links a.active {
+    color: var(--mcmaster-gold);
+    border-bottom: 2px solid var(--mcmaster-gold);
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, var(--mcmaster-maroon) 0%, var(--mcmaster-dark-maroon) 100%);
+    color: var(--mcmaster-white);
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.hero .subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+}
+
+.hero-details {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    font-size: 1.1rem;
+}
+
+/* Sections */
+section {
+    padding: 3rem 0;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: var(--mcmaster-maroon);
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+section h3 {
+    font-size: 1.5rem;
+    color: var(--mcmaster-dark-maroon);
+    margin-bottom: 1rem;
+}
+
+/* About Section */
+.about {
+    background-color: var(--mcmaster-white);
+}
+
+.about p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+/* Topics Section */
+.topics {
+    background-color: var(--mcmaster-light-gray);
+}
+
+.topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.topic-card {
+    background: var(--mcmaster-white);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-top: 4px solid var(--mcmaster-maroon);
+}
+
+.topic-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(122, 0, 60, 0.2);
+}
+
+.topic-card h3 {
+    color: var(--mcmaster-maroon);
+}
+
+.topic-card ul {
+    list-style-position: inside;
+    margin-top: 1rem;
+}
+
+.topic-card li {
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+/* News Section */
+.news {
+    background-color: var(--mcmaster-white);
+}
+
+.news-item {
+    background-color: var(--mcmaster-light-gray);
+    padding: 1.5rem;
+    border-left: 4px solid var(--mcmaster-maroon);
+    margin-bottom: 1rem;
+}
+
+.news-date {
+    font-weight: 600;
+    color: var(--mcmaster-maroon);
+    margin-bottom: 0.5rem;
+}
+
+/* Call for Papers Styles */
+.cfp-intro {
+    background-color: var(--mcmaster-white);
+    text-align: center;
+}
+
+.cfp-intro p {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    line-height: 1.8;
+}
+
+.submission-topics {
+    background-color: var(--mcmaster-light-gray);
+}
+
+.topics-list {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: var(--mcmaster-white);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.topics-list ul {
+    list-style-position: inside;
+    column-count: 2;
+    column-gap: 2rem;
+}
+
+.topics-list li {
+    margin-bottom: 0.8rem;
+    color: #555;
+}
+
+.submission-guidelines {
+    background-color: var(--mcmaster-white);
+}
+
+.guidelines-box {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: var(--mcmaster-light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--mcmaster-maroon);
+}
+
+.guidelines-box h3 {
+    color: var(--mcmaster-maroon);
+}
+
+.guidelines-box ul {
+    list-style-position: inside;
+    margin-top: 1rem;
+}
+
+.guidelines-box li {
+    margin-bottom: 0.8rem;
+}
+
+/* Dates Table */
+.dates-table {
+    background-color: var(--mcmaster-white);
+}
+
+table {
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem auto;
+    border-collapse: collapse;
+    background: var(--mcmaster-white);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: var(--mcmaster-maroon);
+    color: var(--mcmaster-white);
+    font-weight: 600;
+}
+
+tr:hover {
+    background-color: var(--mcmaster-light-gray);
+}
+
+/* Committee Section */
+.committee-section {
+    background-color: var(--mcmaster-white);
+}
+
+.committee-group {
+    margin-bottom: 3rem;
+}
+
+.committee-members {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.member-card {
+    background-color: var(--mcmaster-light-gray);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--mcmaster-maroon);
+}
+
+.member-card h4 {
+    color: var(--mcmaster-maroon);
+    margin-bottom: 0.5rem;
+}
+
+.member-card p {
+    color: #555;
+    margin: 0.25rem 0;
+}
+
+/* Registration Section */
+.registration-info {
+    background-color: var(--mcmaster-white);
+}
+
+.registration-types {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.registration-card {
+    background: var(--mcmaster-light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    border-top: 4px solid var(--mcmaster-maroon);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.registration-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(122, 0, 60, 0.2);
+}
+
+.registration-card h3 {
+    color: var(--mcmaster-maroon);
+    margin-bottom: 1rem;
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--mcmaster-dark-maroon);
+    margin: 1rem 0;
+}
+
+/* Venue Section */
+.venue-info {
+    background-color: var(--mcmaster-white);
+}
+
+.venue-info p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+/* Footer */
+footer {
+    background-color: var(--mcmaster-dark-maroon);
+    color: var(--mcmaster-white);
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 3rem;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    nav .nav-links {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero h2 {
+        font-size: 1.5rem;
+    }
+
+    .hero-details {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .topics-list ul {
+        column-count: 1;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+
+    th, td {
+        padding: 0.5rem;
+    }
+}
