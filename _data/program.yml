@@ -1,0 +1,32 @@
+days:
+
+- name: Wednesday (27/05)
+  abbr: We
+  date: 2026-05-27
+  rooms:
+  - name: Conference
+    talks:
+      - name: Opening Session
+        time_start: '09:00'
+        time_end: '18:12'
+
+
+- name: Thursday (28/05)
+  abbr: We
+  date: 2026-05-28
+  rooms:
+  - name: Conference
+    talks:
+      - name: Opening Session
+        time_start: '09:00'
+        time_end: '18:00'
+
+- name: Friday (29/05)
+  abbr: We
+  date: 2026-05-29
+  rooms:
+  - name: Conference
+    talks:
+      - name: Opening Session
+        time_start: '09:00'
+        time_end: '18:00'

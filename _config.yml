@@ -1,15 +1,221 @@
-# Jekyll configuration for ISORC 2026 GitHub Pages
-title: "ISORC 2026"
-description: "IEEE International Symposium on Real-Time Computing 2026"
-baseurl: ""
-url: "https://mcscer.github.io/isorc2026"
+title: ISORC 2026
+preposition: at
+description: >-
+  29th International Symposium on Real-Time Distributed Computing (May 27-29, 2026)
+baseurl: "/isorc2026" # the subpath of your site, e.g. /blog
+url: "https://mcscert.github.io" 
+
+theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed
 
-# Exclude files from build
+# Additional exclude from processing
 exclude:
+  - vendor
+  - .github/
   - README.md
-  - .git
-  - .gitignore
-  - "*.html"
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference:
+
+  # Language
+  lang: en
+
+  # Timezone
+  tz: "-05:00"
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: McMaster<br/>University
+      # img: ''
+      url: 'https://www.mcmaster.ca/'
+    breakpoint: md
+    links:
+      - name: Committees
+        menu:
+          - name: Organization Commitee
+            relative_url: /committees/organization-committee.html
+          - name: Program Commitee
+            relative_url: /committees/program-committee.html
+      - name: Call for Papers
+        menu:
+          - name: Research Track
+            relative_url: /cfp/research.html
+          - name: Poster Track
+            relative_url: /cfp/posters.html
+          - name: Doctoral Symposium & Dissertation Digests
+            relative_url: /cfp/doctoral.html
+      - name: Program
+        relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
+      - name: Location
+        relative_url: /location/
+      - name: Previous Editions
+        menu:
+          - name: 2026 (current)
+            disabled: true
+          - name: 2025
+            absolute_url: 'https://isorc.github.io/2025/'
+          - name: 2024
+            absolute_url: 'https://isorc.github.io/2024/'
+          - name: 2023
+            absolute_url: 'https://isorc.github.io/2023/'
+          - name: 2022
+            absolute_url: 'https://isorc2022.github.io/'
+          - name: 2021
+            absolute_url: 'https://isorc2021.github.io/'
+          - name: 2020
+            absolute_url: 'https://isorc.github.io/2020/'
+          - name: 2019
+            absolute_url: 'https://isorc2019.github.io/'
+          - name: 2018
+            absolute_url: 'https://cps-research-group.github.io/ISORC2018/'
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Program
+        disabled: true
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /location/
+      - name: Registration
+        disabled: true
+        absolute_url: ''
+
+  # Information boxes
+  info_bars:
+    #- title: Welcome to the Conference Theme for Jekyll!
+    #  color: primary
+    #  main_only: true
+    #  text: |
+    #    The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+#
+#        ---
+#
+#        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+#    - text: This is just some random content for demonstration purposes.
+#      color: warning
+#      pages_only: true
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop: 240 # in minutes
+    streaming:
+      enable: true
+      pause: 60 # in minutes
+      prepend: 5 # in minutes
+      extend: 5 # in minutes
+    demo:
+      enable: false
+      duration: 300 # in seconds
+      pause: 10 # in seconds
+
+  talks:
+    # Talk tracks
+    tracks:
+      - name: General
+        color: secondary
+      - name: Research
+        color: primary
+      - name: Poster 
+        color: success
+      - name: Doctoral Symposium
+        color: info
+      - name: Dissertation Digets
+        color: dark
+
+
+    # Talk tags
+    tags:
+      - name: No recording
+        icon: video-slash
+
+    # Hide icons on talk overview page
+    hide_link_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 43.2614, -79.9197
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 15
+
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true
