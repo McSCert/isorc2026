@@ -6,7 +6,7 @@ baseurl: "/isorc2026" # the subpath of your site, e.g. /blog
 url: "https://mcscert.github.io" 
 
 #theme: jekyll-theme-conference
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.7.2"
 
 # Build settings
 markdown: kramdown
@@ -168,9 +168,6 @@ conference:
       pause: 10 # in seconds
 
   talks:
-    main_categories:
-      - name: General
-    # Talk tracks
     tracks:
       - name: General
         color: secondary
@@ -182,7 +179,6 @@ conference:
         color: info
       - name: Dissertation Digets
         color: dark
-
 
     # Talk tags
     tags:
@@ -221,7 +217,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
