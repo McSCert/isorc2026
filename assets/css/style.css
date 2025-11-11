@@ -1,4 +1,14 @@
-/* ISORC 2026 Website Styles */
+/* ISORC 2026 Website Styles - McMaster University Color Palette */
+
+/* CSS Variables - McMaster University Colors */
+:root {
+    --mcmaster-maroon: #7A003C;
+    --mcmaster-gold: #FDBF57;
+    --mcmaster-white: #FFFFFF;
+    --mcmaster-gray: #5E6A71;
+    --mcmaster-light-gray: #F5F5F5;
+    --mcmaster-dark-maroon: #5A0029;
+}
 
 /* CSS Reset and Base Styles */
 * {
@@ -11,7 +21,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
 }
 
 .container {
@@ -22,7 +32,7 @@ body {
 
 /* Header and Navigation */
 header {
-    background-color: #0066cc;
+    background-color: var(--mcmaster-maroon);
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: sticky;
     top: 0;
@@ -37,9 +47,14 @@ nav .container {
 }
 
 nav .logo h1 {
-    color: white;
+    color: var(--mcmaster-white);
     font-size: 1.5rem;
     font-weight: 700;
+}
+
+nav .logo h1 a {
+    color: var(--mcmaster-white);
+    text-decoration: none;
 }
 
 nav .nav-links {
@@ -49,7 +64,7 @@ nav .nav-links {
 }
 
 nav .nav-links a {
-    color: white;
+    color: var(--mcmaster-white);
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s;
@@ -58,14 +73,14 @@ nav .nav-links a {
 
 nav .nav-links a:hover,
 nav .nav-links a.active {
-    color: #ffd700;
-    border-bottom: 2px solid #ffd700;
+    color: var(--mcmaster-gold);
+    border-bottom: 2px solid var(--mcmaster-gold);
 }
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #0066cc 0%, #004c99 100%);
-    color: white;
+    background: linear-gradient(135deg, var(--mcmaster-maroon) 0%, var(--mcmaster-dark-maroon) 100%);
+    color: var(--mcmaster-white);
     padding: 4rem 0;
     text-align: center;
 }
@@ -102,20 +117,20 @@ section {
 
 section h2 {
     font-size: 2rem;
-    color: #0066cc;
+    color: var(--mcmaster-maroon);
     margin-bottom: 1.5rem;
     text-align: center;
 }
 
 section h3 {
     font-size: 1.5rem;
-    color: #004c99;
+    color: var(--mcmaster-dark-maroon);
     margin-bottom: 1rem;
 }
 
 /* About Section */
 .about {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .about p {
@@ -127,7 +142,7 @@ section h3 {
 
 /* Topics Section */
 .topics {
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
 }
 
 .topics-grid {
@@ -138,16 +153,21 @@ section h3 {
 }
 
 .topic-card {
-    background: white;
+    background: var(--mcmaster-white);
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     transition: transform 0.3s, box-shadow 0.3s;
+    border-top: 4px solid var(--mcmaster-maroon);
 }
 
 .topic-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    box-shadow: 0 5px 20px rgba(122, 0, 60, 0.2);
+}
+
+.topic-card h3 {
+    color: var(--mcmaster-maroon);
 }
 
 .topic-card ul {
@@ -162,25 +182,25 @@ section h3 {
 
 /* News Section */
 .news {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .news-item {
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
     padding: 1.5rem;
-    border-left: 4px solid #0066cc;
+    border-left: 4px solid var(--mcmaster-maroon);
     margin-bottom: 1rem;
 }
 
 .news-date {
     font-weight: 600;
-    color: #0066cc;
+    color: var(--mcmaster-maroon);
     margin-bottom: 0.5rem;
 }
 
 /* Call for Papers Styles */
 .cfp-intro {
-    background-color: white;
+    background-color: var(--mcmaster-white);
     text-align: center;
 }
 
@@ -192,13 +212,13 @@ section h3 {
 }
 
 .submission-topics {
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
 }
 
 .topics-list {
     max-width: 900px;
     margin: 2rem auto;
-    background: white;
+    background: var(--mcmaster-white);
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -216,15 +236,20 @@ section h3 {
 }
 
 .submission-guidelines {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .guidelines-box {
     max-width: 800px;
     margin: 2rem auto;
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
     padding: 2rem;
     border-radius: 8px;
+    border-left: 4px solid var(--mcmaster-maroon);
+}
+
+.guidelines-box h3 {
+    color: var(--mcmaster-maroon);
 }
 
 .guidelines-box ul {
@@ -238,7 +263,7 @@ section h3 {
 
 /* Dates Table */
 .dates-table {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 table {
@@ -246,7 +271,7 @@ table {
     max-width: 800px;
     margin: 2rem auto;
     border-collapse: collapse;
-    background: white;
+    background: var(--mcmaster-white);
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
@@ -257,18 +282,18 @@ th, td {
 }
 
 th {
-    background-color: #0066cc;
-    color: white;
+    background-color: var(--mcmaster-maroon);
+    color: var(--mcmaster-white);
     font-weight: 600;
 }
 
 tr:hover {
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
 }
 
 /* Committee Section */
 .committee-section {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .committee-group {
@@ -283,14 +308,14 @@ tr:hover {
 }
 
 .member-card {
-    background-color: #f8f9fa;
+    background-color: var(--mcmaster-light-gray);
     padding: 1.5rem;
     border-radius: 8px;
-    border-left: 4px solid #0066cc;
+    border-left: 4px solid var(--mcmaster-maroon);
 }
 
 .member-card h4 {
-    color: #0066cc;
+    color: var(--mcmaster-maroon);
     margin-bottom: 0.5rem;
 }
 
@@ -301,7 +326,7 @@ tr:hover {
 
 /* Registration Section */
 .registration-info {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .registration-types {
@@ -312,28 +337,34 @@ tr:hover {
 }
 
 .registration-card {
-    background: #f8f9fa;
+    background: var(--mcmaster-light-gray);
     padding: 2rem;
     border-radius: 8px;
     text-align: center;
-    border-top: 4px solid #0066cc;
+    border-top: 4px solid var(--mcmaster-maroon);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.registration-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(122, 0, 60, 0.2);
 }
 
 .registration-card h3 {
-    color: #0066cc;
+    color: var(--mcmaster-maroon);
     margin-bottom: 1rem;
 }
 
 .price {
     font-size: 2rem;
     font-weight: 700;
-    color: #004c99;
+    color: var(--mcmaster-dark-maroon);
     margin: 1rem 0;
 }
 
 /* Venue Section */
 .venue-info {
-    background-color: white;
+    background-color: var(--mcmaster-white);
 }
 
 .venue-info p {
@@ -344,8 +375,8 @@ tr:hover {
 
 /* Footer */
 footer {
-    background-color: #004c99;
-    color: white;
+    background-color: var(--mcmaster-dark-maroon);
+    color: var(--mcmaster-white);
     text-align: center;
     padding: 2rem 0;
     margin-top: 3rem;
