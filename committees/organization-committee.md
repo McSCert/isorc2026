@@ -42,10 +42,10 @@ title: Organization Committee
 
 ### Web Chair
 
-- Melissa Alzaeim, McMaster Centre for Software Certification, Canada
+- Sharon (Xiaoran) Liu, McMaster University, Canada
 
 ### Local Organization
 
 - Lena Liberale, McMaster Centre for Software Certification, Canada 
-- Richard Paige, McMaster University, Canada (IEEE)
-- Alan Wassyng,  McMaster University, Canada (IEEE)
+- Dr. Richard Paige, McMaster University, Canada (IEEE)
+- Dr. Alan Wassyng,  McMaster University, Canada (IEEE)
