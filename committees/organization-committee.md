@@ -9,7 +9,7 @@ title: Organization Committee
 
 ### Regional Co-Chairs
 
-- Dr. Mathias Pacher, Goethe University Frankfurt, Germany
+- Dr. Mathias Pacher, Baden-Wuerttemberg Cooperative State University Karlsruhe, Germany
 
 ### Steering Committee 
 - Dr. Uwe Brinkschulte, Goethe Universität Frankfurt am Main, Germany
