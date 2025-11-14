@@ -16,7 +16,7 @@ title: Organization Committee
 - Dr. Robert G Pettit, George Mason University, USA (IEEE)
 
 
-### Doctoral Symposouym & Dissertation Digest Chair
+### Doctoral Symposium & Dissertation Digest Chair
 
 - TBA
 
@@ -34,7 +34,7 @@ title: Organization Committee
 
 ### Publicity Chair
 
-- TBA
+- Jason Jaskolka, Carleton University, Canada (IEEE)
 
 ### Finance & Sponsorship Chair
 
