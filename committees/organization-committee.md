@@ -10,11 +10,11 @@ title: Organization Committee
 ### Regional Co-Chairs
 
 - Dr. Mathias Pacher, Baden-Wuerttemberg Cooperative State University Karlsruhe, Germany
+- Dr. Akramul Azim, Ontario Tech University, Canada (IEEE)
 
 ### Steering Committee 
 - Dr. Uwe Brinkschulte, Goethe Universität Frankfurt am Main, Germany
 - Dr. Robert G Pettit, George Mason University, USA (IEEE)
-
 
 ### Doctoral Symposium & Dissertation Digest Chair
 
