@@ -13,6 +13,6 @@ title: Program Committee
 
 ### Program Committee Members
 
-TBA
+- Dr. Sebastian Altmeyer, University of Augsburg, Germany (IEEE)
 
 
