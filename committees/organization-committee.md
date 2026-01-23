@@ -11,6 +11,7 @@ title: Organization Committee
 
 - Dr. Mathias Pacher, Baden-Wuerttemberg Cooperative State University Karlsruhe, Germany
 - Dr. Akramul Azim, Ontario Tech University, Canada (IEEE)
+- Dr. Nitin Auluck, Indian Institute of Technology (IIT) Ropar, India (IEEE)
 
 ### Steering Committee 
 - Dr. Uwe Brinkschulte, Goethe Universität Frankfurt am Main, Germany
@@ -18,7 +19,7 @@ title: Organization Committee
 
 ### Doctoral Symposium & Dissertation Digest Chair
 
-- TBA
+- Aleksey Koschowoj, Goethe-Universität Frankfurt, Germany
 
 ### Panel Chair
 
