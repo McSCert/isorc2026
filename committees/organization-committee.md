@@ -19,7 +19,7 @@ title: Organization Committee
 
 ### Doctoral Symposium & Dissertation Digest Chair
 
-- Aleksey Koschowoj, Goethe-Universität Frankfurt, Germany
+- Dr. Aleksey Koschowoj, Goethe-Universität Frankfurt, Germany
 
 ### Panel Chair
 
@@ -35,7 +35,7 @@ title: Organization Committee
 
 ### Publicity Chair
 
-- Jason Jaskolka, Carleton University, Canada (IEEE)
+- Dr. Jason Jaskolka, Carleton University, Canada (IEEE)
 
 ### Finance & Sponsorship Chair
 
