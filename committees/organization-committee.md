@@ -43,7 +43,7 @@ title: Organization Committee
 
 ### Web Chair
 
-- Sharon (Xiaoran) Liu, McMaster University, Canada
+- Xiaoran (Sharon) Liu, McMaster University, Canada
 
 ### Local Organization
 
