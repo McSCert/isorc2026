@@ -6,6 +6,7 @@ baseurl: "/isorc2026" # the subpath of your site, e.g. /blog
 url: "https://mcscert.github.io" 
 
 #theme: jekyll-theme-conference
+# remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v4.0.1"
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.7.2"
 
 # Build settings

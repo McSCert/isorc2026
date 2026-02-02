@@ -7,6 +7,12 @@ title: Organization Committee
 
 - Dr. Sébastien Mosser, McMaster University, Canada (IEEE)
 
+### Program Chairs
+
+- Dr. Mark Lawford, McMaster University, Canada (IEEE)
+- Dr. Martin Schoeberl, Technical University of Denmark, Denmark (IEEE)
+- Dr. Avinash Malik, University of Auckland, New Zealand
+
 ### Regional Co-Chairs
 
 - Dr. Mathias Pacher, Baden-Wuerttemberg Cooperative State University Karlsruhe, Germany
@@ -20,12 +26,10 @@ title: Organization Committee
 ### Doctoral Symposium & Dissertation Digest Chair
 
 - Dr. Aleksey Koschowoj, Goethe-Universität Frankfurt, Germany
+- Dr. Peter Puschner, TU Wien, Austria
 
-### Panel Chair
 
-- TBA
-
-### Industry Chair
+### Industry Panel Chair
 
 - TBA
 
@@ -45,7 +49,7 @@ title: Organization Committee
 
 - Xiaoran (Sharon) Liu, McMaster University, Canada
 
-### Local Organization
+### Local Organization Committee 
 
 - Lena Liberale, McMaster Centre for Software Certification, Canada 
 - Dr. Richard Paige, McMaster University, Canada (IEEE)

@@ -12,10 +12,11 @@ For our 29th symposium, we are meeting in Hamilton, The Waterfall Capital of the
 
 ### Important Dates
 
-- Submission deadline: February 02, 2026, 11:59 PM AoE
-- Acceptance Notification: March 05, 2026
-- Camera-ready papers: March 20, 2026
-- Early registration for authors: March 20, 2026
+- Abstract deadline (required): February 24, 2026, 11:59 PM AoE
+- Submission deadline: ~~February 02, 2026~~ March 03, 2026, 11:59 PM, AoE
+- Acceptance Notification: ~~March 05, 2026~~ March 24, 2026
+- Camera-ready papers: ~~March 20, 2026~~ April 4, 2026, 11:59 PM AoE
+- Required early registration for authors: ~~March 20, 2026~~ March 31, 2026
 
 
 ### Main Theme and Topics
@@ -53,3 +54,7 @@ The IEEE conference paper templates can be found here: [https://www.ieee.org/con
 Papers are to be submitted through the HotCRP system: [https://isorc2026.hotcrp.com/](https://isorc2026.hotcrp.com/)
 
 
+### Presentation and Publication
+
+- All accepted papers will be presented in-person at the conference
+- A full registration (one par accepted paper) from at least one of the authors is required to cover the paper and its inclusion in proceedings.
