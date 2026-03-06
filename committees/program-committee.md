@@ -16,7 +16,7 @@ title: Program Committee
 - Dr. Sebastian Altmeyer, University of Augsburg, Germany (IEEE)
 - Dr. Federico Aromolo, Scuola Superiore Sant'Anna, Italy
 - Dr. Leila Ben Ayed, ENSI, University of Manouba, Tunisia
-- Dr. Antoine Bertout, LIAS, Université de Poitiers, ISAE-ENSMA, France
+- Dr. Antoine Berthou, LIAS, Université de Poitiers, ISAE-ENSMA, France
 - Dr. Uwe Brinkschulte, University of Frankfurt, Germany
 - Dr. Thomas Carle, University of Toulouse 3, Paul Sabatier, CNRS-IRIT, France
 - Dr. Daniel Casini, Scuola Superiore Sant'Anna, Italy
@@ -26,7 +26,7 @@ title: Program Committee
 - Dr. Christian Carmine Esposito, University of Salerno, Italy (IEEE)
 - Dr. Sebastien Faucou, University of Nantes, France
 - Dr. Aniruddha Gokhale, Vanderbilt University, USA (IEEE)
-- Dr. Emmanuel Grolleau, SAE-ENSMA, Poitiers, France
+- Dr. Emmanuel Grolleau, ISAE-ENSMA, Poitiers, France
 - Dr. Zonghua Gu, Hofstra University, USA
 - Dr. Zain Alabedin Haj Hammadeh, The German Aerospace Center (DLR), Köln, Germany
 - Dr. Akram Hakiri, University of Pau and Pays de l'Adour, France (IEEE)
