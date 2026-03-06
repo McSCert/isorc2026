@@ -16,7 +16,7 @@ title: Program Committee
 - Dr. Sebastian Altmeyer, University of Augsburg, Germany (IEEE)
 - Dr. Federico Aromolo, Scuola Superiore Sant'Anna, Italy
 - Dr. Leila Ben Ayed, ENSI, University of Manouba, Tunisia
-- Dr. Antoine Berthou, SAE-ENSMA, France
+- Dr. Antoine Bertout, LIAS, Université de Poitiers, ISAE-ENSMA, France
 - Dr. Uwe Brinkschulte, University of Frankfurt, Germany
 - Dr. Thomas Carle, University of Toulouse 3, Paul Sabatier, CNRS-IRIT, France
 - Dr. Daniel Casini, Scuola Superiore Sant'Anna, Italy
