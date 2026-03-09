@@ -53,9 +53,9 @@ The IEEE conference paper templates can be found here: [https://www.ieee.org/con
 
 Papers are to be submitted through the HotCRP system: [https://isorc2026.hotcrp.com/](https://isorc2026.hotcrp.com/)
 
-{% include footer.html %}
-
 ### Presentation and Publication
 
 - All accepted papers will be presented in-person at the conference
 - A full registration (one par accepted paper) from at least one of the authors is required to cover the paper and its inclusion in proceedings.
+
+{% include footer.html %}
