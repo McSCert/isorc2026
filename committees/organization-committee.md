@@ -50,3 +50,5 @@ title: Organization Committee
 - Lena Liberale, McMaster Centre for Software Certification, Canada 
 - Dr. Richard Paige, McMaster University, Canada (IEEE)
 - Dr. Alan Wassyng,  McMaster University, Canada (IEEE)
+
+{% include footer.html %}

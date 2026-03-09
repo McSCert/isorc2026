@@ -5,3 +5,37 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 $primary: #7A003C !default;
 $secondary: #FDBF57 !default;
 @import 'conference';
+
+/* Custom footer styles */
+footer {
+  background: transparent;
+  margin-top: 3rem;
+}
+
+.sponsor-logo {
+  height: 60px;
+  max-width: 150px;
+  width: auto;
+  object-fit: contain;
+
+  opacity: 0.85;
+  filter: grayscale(20%);
+
+  transition: opacity 0.25s ease, transform 0.25s ease, filter 0.25s ease;
+
+  &:hover {
+    opacity: 1;
+    transform: scale(1.05);
+    filter: grayscale(0%);
+  }
+}
+
+@media (max-width: 768px) {
+  .sponsor-logo {
+    height: 50px;
+    max-width: 120px;
+  }
+}
+.sponsors-strip {
+  background: #fff;   // forces “outside grey”
+}

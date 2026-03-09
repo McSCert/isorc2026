@@ -27,5 +27,7 @@ For our 29th symposium, we are meeting in Hamilton, The Waterfall capital of the
 
 - TBA
 
+{% include footer.html %}
+
 
 
