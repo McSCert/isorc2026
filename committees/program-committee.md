@@ -51,4 +51,4 @@ title: Program Committee
 - Dr. Houssameddine Zahaf, University of Nantes, LS2N, France
 - Dr. Dakai Zhu, University of Texas at San Antonio, USA (IEEE)
 
-
+{% include footer.html %}

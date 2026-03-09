@@ -76,5 +76,7 @@ Please follow the guidelines below when preparing your submission:
 
 
 
+{% include footer.html %}
+
 
 
