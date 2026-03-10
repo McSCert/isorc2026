@@ -13,14 +13,15 @@ footer {
 }
 
 .sponsor-logo {
-  height: 60px;
-  max-width: 150px;
+  display: block;
+  height: 100%;         /* fill the fixed-height container */
+  max-height: 100px;
   width: auto;
+  max-width: 100%;
   object-fit: contain;
 
   opacity: 0.85;
-  filter: grayscale(20%);
-
+  filter: grayscale(0%);
   transition: opacity 0.25s ease, transform 0.25s ease, filter 0.25s ease;
 
   &:hover {
@@ -28,6 +29,11 @@ footer {
     transform: scale(1.05);
     filter: grayscale(0%);
   }
+}
+.sponsor-logo-financial {
+  height: auto;
+  max-width: 120px;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -38,4 +44,16 @@ footer {
 }
 .sponsors-strip {
   background: #fff;   // forces “outside grey”
+}
+
+@media (max-width: 768px) {
+  .sponsor-logo {
+    height: 50px;
+    max-width: 120px;
+  }
+
+  .sponsor-logo-financial {
+    height: 80px;
+    max-width: 180px;
+  }
 }
