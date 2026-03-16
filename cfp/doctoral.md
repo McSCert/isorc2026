@@ -18,7 +18,7 @@ The Doctoral Symposium & Dissertation Digest aims to:
 
 ### Important Dates
 
-- Abstract deadline (required): March 14, 2026, 11:59 PM AoE
+- Abstract deadline (optional): March 14, 2026, 11:59 PM AoE
 - Submission deadline: March 21, 2026, 11:59 p.m. anywhere on earth
 - Acceptance notification: April 4, 2026
 - Camera-ready submission: April 19, 2026, 11:59 p.m. anywhere on earth
