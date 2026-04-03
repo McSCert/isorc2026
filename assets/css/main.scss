@@ -6,6 +6,50 @@ $primary: #7A003C !default;
 $secondary: #FDBF57 !default;
 @import 'conference';
 
+/* registration button */
+
+/* NEW: Flexbox wrapper to perfectly center the button */
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px; // Optional: gives the button some breathing room
+}
+
+.register-btn {
+  /* Colors & Text */
+  background-color: $primary;
+  color: white; 
+  font-size: 20px; /* INCREASED: Was 16px */
+  font-weight: 600;
+  font-family: system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.5px; /* NEW: A tiny bit of spacing helps larger text read better */
+  
+  /* Sizing & Spacing */
+  padding: 16px 40px; /* INCREASED: Scaled up to balance the larger text */
+  border: 2px solid transparent;
+  border-radius: 8px; 
+  cursor: pointer;
+  
+  /* Shadows & Smoothness */
+  box-shadow: 0 4px 6px rgba($primary, 0.2); 
+  transition: all 0.3s ease; 
+
+  /* Nested Hover State */
+  &:hover {
+    background-color: darken($primary, 8%); 
+    color: $secondary; 
+    transform: translateY(-2px); 
+    box-shadow: 0 6px 12px rgba($primary, 0.3); 
+  }
+
+  /* Nested Active State */
+  &:active {
+    transform: translateY(1px); 
+    box-shadow: 0 2px 4px rgba($primary, 0.2); 
+  }
+}
+
+
 /* Custom footer styles */
 footer {
   background: transparent;

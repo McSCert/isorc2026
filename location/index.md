@@ -1,5 +1,7 @@
 ---
 layout: location
+title: Conference Venue
+hide: false
 ---
 
 ISORC 20265 will take place in Hamilton, Canada and is organized by McMaster University. The Faculty of Engineering at McMaster University has a reputation for innovative programs, cutting-edge research, leading faculty, and aspiring students. It has earned a strong reputation as a center for academic excellence and innovation. The Faculty has approximately 180 faculty members, along with close to 4,500 undergraduate and 1,000 graduate students.

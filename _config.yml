@@ -74,6 +74,16 @@ conference:
       url: 'https://www.mcmaster.ca/'
     breakpoint: md
     links:
+      - name: Attending
+        menu:
+          - name: Registration
+            relative_url: /attending/registration.html
+          - name: Venue
+            relative_url: /location/index.html
+          - name: Accomodation
+            relative_url: /attending/hotels.html
+          - name: Visa & Travel
+            relative_url: /attending/visa.html
       - name: Committees
         menu:
           - name: Organization Commitee
@@ -92,8 +102,6 @@ conference:
         relative_url: /program/
       - name: Talks
         relative_url: /talks/
-      - name: Location
-        relative_url: /location/
       - name: Previous Editions
         menu:
           - name: 2026 (current)
@@ -129,7 +137,7 @@ conference:
     #   img: ''
     links:
       - name: Program
-        disabled: true
+        disabled: false
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
@@ -139,11 +147,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Registration will open soon
-      color: primary
+    - title: Registration is open 
+      color: success
       main_only: false
       text: |
-        Stay tuned, registration for the 20206 edition of ISORC will open soon.
+        Registration for ISORC 2026 is open! [Click here for more information!](/isorc2026/attending/registration.html)
 #
 #        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
 #    - text: This is just some random content for demonstration purposes.
