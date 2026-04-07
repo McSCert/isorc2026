@@ -2,12 +2,10 @@
 name: The Buttery
 ---
 
-
-
-![](/isorc2026/assets/images/buttery1.jpg)
-
-
 ## McMaster's flagship restaurant
+
+<img src="/isorc2026/assets/images/buttery1.jpg" 
+     style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
 In the 1940s, the Memorial Campaign was undertaken by the McMaster Alumni Association to raise funds for the construction of a new student centre. 
 Alumni responded generously, and Alumni Memorial Hall was built in 1951. It was named in honour of McMaster students and alumni who had given their lives in the two world wars. 
@@ -18,9 +16,11 @@ The building originally housed a cafeteria, lounges for men and women, a common 
 Students at the time referred to the building as The Buttery.
 Today, The Buttery dining room celebrates the history of McMaster while providing culinary delights that focus on local and sustainable ingredients to align with our Okanagan Charter objectives.
 
-![](/isorc2026/assets/images/buttery2.jpg)
 
 ## Menu by Executive Chef Paul Hoag and Chef Chris Beltrano.
+
+<img src="/isorc2026/assets/images/buttery2.jpg" 
+     style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
 Executive Chef Paul Hoag stands as one of Canada’s preeminent culinary talents, boasting an impressive career spanning over 40 years in some of the nation’s most prestigious kitchens. 
 
