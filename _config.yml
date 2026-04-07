@@ -143,7 +143,7 @@ conference:
         relative_url: /location/
       - name: Registration
         disabled: false
-        relative_url: /registration/
+        relative_url: /attending/registration.html
 
   # Information boxes
   info_bars:

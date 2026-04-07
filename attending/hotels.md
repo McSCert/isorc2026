@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Registration Information
+title: Accommodation
 ---
 
-### Accommodation
-
----
+Here is a list of hotels partnering with ISORC 2026.
 
 ### Sheraton Hamilton Hotel
 
