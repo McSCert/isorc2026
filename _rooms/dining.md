@@ -2,7 +2,7 @@
 name: The Buttery
 ---
 
-## McMaster's flagship restaurant
+## The Buttery: McMaster's flagship restaurant
 
 <img src="/isorc2026/assets/images/buttery1.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
@@ -17,7 +17,7 @@ Students at the time referred to the building as The Buttery.
 Today, The Buttery dining room celebrates the history of McMaster while providing culinary delights that focus on local and sustainable ingredients to align with our Okanagan Charter objectives.
 
 
-## Menu by Executive Chef Paul Hoag and Chef Chris Beltrano.
+## Menu by Executive Chef Paul Hoag and Chef Chris Beltrano
 
 <img src="/isorc2026/assets/images/buttery2.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
