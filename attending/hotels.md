@@ -26,7 +26,7 @@ title: Registration Information
 
 **Reservation Instructions:**  
 - Use the group booking link: [Book your group rate for IEEE International Symposium](https://www.marriott.com/event-reservations/reservation-link.mi?id=1775495561707&key=GRP&app=resvlink&_branch_match_id=1513945023026405380&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uamJpampmaG5gbladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAaphsK2AAAAA%3D)
-- Reservations can also be made by contacting the 24-hour, toll-free reservations at 1-888-627-8161 and asking for the “IEEE Symposium” group block
+- Reservations can also be made by contacting the 24-hour, toll-free reservations at 1-888-627-8161 and asking for the "IEEE Symposium" group block.
 
 ---
 
