@@ -19,7 +19,7 @@ Today, The Buttery dining room celebrates the history of McMaster while providin
 
 ## Menu by Executive Chef Paul Hoag and Chef Chris Beltrano
 
-<img src="/isorc2026/assets/images/buttery2.jpg" 
+<img src="/isorc2026/assets/images/buttery4.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
 Executive Chef Paul Hoag stands as one of Canada’s preeminent culinary talents, boasting an impressive career spanning over 40 years in some of the nation’s most prestigious kitchens. 
