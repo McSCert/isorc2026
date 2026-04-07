@@ -4,7 +4,7 @@ name: The Buttery
 
 ## The Buttery: McMaster's flagship restaurant
 
-<img src="/isorc2026/assets/images/buttery1.jpg" 
+<img src="/isorc2026/assets/images/buttery3.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
 In the 1940s, the Memorial Campaign was undertaken by the McMaster Alumni Association to raise funds for the construction of a new student centre. 
