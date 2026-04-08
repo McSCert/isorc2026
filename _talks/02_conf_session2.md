@@ -1,5 +1,5 @@
 ---
-name: Session#1.2
+name: Session#2.2
 speakers:
   - Session 2 Speaker
 track: Research

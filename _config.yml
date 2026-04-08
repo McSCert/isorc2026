@@ -175,16 +175,18 @@ conference:
 
   talks:
     tracks:
+      - name: Registration
+        color: dark
       - name: General
-        color: secondary
+        color: warning
       - name: Research
         color: primary
-      - name: Poster 
+      - name: Plenary
         color: success
-      - name: Doctoral Symposium
+      - name: Refreshments
+        color: danger
+      - name: Social
         color: info
-      - name: Dissertation Digets
-        color: dark
 
     # Talk tags
     tags:
@@ -223,7 +225,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 30 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

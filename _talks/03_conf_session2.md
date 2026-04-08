@@ -1,9 +1,9 @@
 ---
-name: Poster & Demo Exibition
+name: Session#3.2
 speakers:
   - Session 2 Speaker
-track: Poster
+track: Research
 tags: 
-  - Exibition
+  - Research
 ---
 Placeholder abstract for Session 2.

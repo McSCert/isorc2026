@@ -1,7 +1,7 @@
 ---
-name: Lunch Break
-track: General
+name: Lunch and Networking
+track: Refreshments
 tags: 
-  - Break
+  - Break, Networking
 ---
 Placeholder for Lunch.

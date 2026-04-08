@@ -1,6 +1,6 @@
 ---
 name: Coffee Break
-track: General
+track: Refreshments
 tags: 
   - Break
 ---

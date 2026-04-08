@@ -1,79 +1,124 @@
 days:
-
 - name: Wednesday (27/05)
   abbr: We
   date: 2026-05-27
   rooms:
-  - name: Conference
+  - name: Hamilton Hall (HH/302)
     talks:
-      - name: Opening Session
-        time_start: '08:30'
+      - name: Registration
+        time_start: '08:15'
         time_end: '09:00'
-      - name: Keynote #1
+      - name: Welcome Remarks
         time_start: '09:00'
-        time_end: '10:00'
-      # - name: Coffee Break
-      #   time_start: '10:00'
-      #   time_end: '10:30'
-      - name: Session 1 (day1)
-        time_start: '10:30'
-        time_end: '12:30'
-      # - name: Lunch
-      #   time_start: '12:30'
-      #   time_end: '14:00'
-      - name: Session 2 (day1)
+        time_end: '09:15'
+      - name: Keynote
+        time_start: '09:15'
+        time_end: '10:15'
+      - name: Session#1.2
+        time_start: '10:45'
+        time_end: '12:15'
+      - name: Session#1.3
         time_start: '14:00'
-        time_end: '16:00'
-      # - name: Coffee Break
-      #   time_start: '16:00'
-      #   time_end: '16:30'
-      - name: Poster & Demo Exibition
+        time_end: '15:30'
+      - name: Session#1.4
         time_start: '16:00'
-        time_end: '16:30'
-      - name: Doctoral Symposium
-        time_start: '16:30'
-        time_end: '18:00'
-  - name: Coffee
+        time_end: '17:30'
+
+  - name: Lunch & Posters (HH/305)
     talks:
       - name: Coffee Break
-        time_start: '10:00'
-        time_end: '10:30'
-      - name: Coffee Break
-        time_start: '16:00'
-        time_end: '16:30'
-  - name: Dining
-    talks:
-      - name: Welcoming Breakfast
-        time_start: '08:00'
-        time_end: '08:30'
-      - name: Lunch Break
-        time_start: '12:30'
+        time_start: '10:15'
+        time_end: '10:45'
+      - name: Lunch and Networking
+        time_start: '12:15'
         time_end: '14:00'
-  - name: Gala
+      - name: Coffee Break
+        time_start: '15:30'
+        time_end: '16:00'
+  - name: The Buttery
     talks:
-      - name: Gala Dinner
-        time_start: '18:00'
+      - name: Welcoming Dinner
+        time_start: '18:30'
         time_end: '21:00'
+
 
 - name: Thursday (28/05)
   abbr: Th
   date: 2026-05-28
   rooms:
-  - name: Conference
+  - name: Hamilton Hall (HH/302)
     talks:
-      - name: Opening Session
+      - name: Registration
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Announcements
         time_start: '09:00'
-        time_end: '09:30'
-      - name: Dissertation Digets
-        time_start: '16:30'
-        time_end: '18:00'
+        time_end: '09:15'
+      - name: Session#2.1
+        time_start: '09:15'
+        time_end: '10:15'
+      - name: Session#2.2
+        time_start: '10:45'
+        time_end: '12:15'
+      - name: Industrial Panel
+        time_start: '14:00'
+        time_end: '15:30'
+
+  - name: Lunch & Posters (HH/305)
+    talks:
+      - name: Coffee Break
+        time_start: '10:15'
+        time_end: '10:45'
+      - name: Lunch and Networking
+        time_start: '12:15'
+        time_end: '14:00'
+      - name: Coffee Break
+        time_start: '15:30'
+        time_end: '16:00'
+
+  - name: The Buttery
+    talks:
+      - name: Social Event
+        time_start: '16:00'
+        time_end: '17:30'
+      - name: Social Event#2
+        time_start: '18:30'
+        time_end: '21:00'
+
 
 - name: Friday (29/05)
   abbr: Fr
   date: 2026-05-29
   rooms:
-  - name: Conference
+  - name: Hamilton Hall (HH/302)
     talks:
-      - name: Opening Session
+      - name: Registration
+        time_start: '08:30'
+        time_end: '09:00'
+      - name: Announcements
         time_start: '09:00'
-        time_end: '18:00'
+        time_end: '09:15'
+      - name: Townhall
+        time_start: '09:15'
+        time_end: '10:15'
+      - name: Session#3.2
+        time_start: '10:45'
+        time_end: '12:15'
+      - name: Session#3.3
+        time_start: '14:00'
+        time_end: '15:15'
+      - name: Closing Remarks
+        time_start: '15:15'
+        time_end: '15:30'
+
+  - name: Lunch & Posters (HH/305)
+    talks:
+      - name: Coffee Break
+        time_start: '10:15'
+        time_end: '10:45'
+      - name: Lunch and Networking
+        time_start: '12:15'
+        time_end: '14:00'
+      - name: Coffee Break
+        time_start: '15:30'
+        time_end: '16:00'
