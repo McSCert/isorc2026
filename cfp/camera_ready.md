@@ -22,6 +22,9 @@ If you encouter any issue when preparing your camera ready paper, please send an
   - **up to two (2) additional pages can be purchased on the registration portal**.
 - Address all reviewers' comments and revise your paper accordingly before submitting the final camera-ready version. Please make sure that all Figures and Tables are of high quality and their content is easily readable.
 - Please make sure also that your paper contains no headers, no footers, and no page numbers. This information will be added by the conference publication team.
+- Please use the following convention for naming your PDF file:
+  - `PAPER-ID_FIRST_AUTHOR-LASTNAME.pdf`
+  - For example: `42_MOSSER.pdf`
 
 **Important**: _IEEE policy requires that all accepted papers must be checked for plagiarism. For ISORC, this will be accomplished through the IEEE CrossCheck Portal._
 
