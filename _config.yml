@@ -78,6 +78,8 @@ conference:
         menu:
           - name: Registration
             relative_url: /attending/registration.html
+          - name: Accepted Papers
+            relative_url: /attending/accepted.html
           - name: Venue
             relative_url: /location/index.html
           - name: Accomodation
@@ -98,6 +100,8 @@ conference:
             relative_url: /cfp/posters.html
           - name: Doctoral Symposium & Dissertation Digests
             relative_url: /cfp/doctoral.html
+          - name: Camera Ready instructions
+            relative_url: /cfp/camera_ready.html
       - name: Program
         relative_url: /program/
       - name: Talks
