@@ -155,7 +155,7 @@ conference:
       color: success
       main_only: false
       text: |
-        Registration for ISORC 2026 is open! [Click here for more information!](/isorc2026/attending/registration.html)
+        Registration for ISORC 2026 is open! (**Early bird deadline is April 24th**) [Click here for more information!](/isorc2026/attending/registration.html)
 #
 #        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
 #    - text: This is just some random content for demonstration purposes.
