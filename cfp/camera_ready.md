@@ -19,6 +19,7 @@ If you encouter any issue when preparing your camera ready paper, please send an
 - Paper must be written in English using the available LaTeX or Microsoft Word templates. (Formatting may not be altered)
   - The IEEE conference paper templates can be found here: [https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates).
 - Prepare the # of pages are required per paper in standard IEEE format.
+  - **up to two (2) additional pages can be purchased on the registration portal**.
 - Address all reviewers' comments and revise your paper accordingly before submitting the final camera-ready version. Please make sure that all Figures and Tables are of high quality and their content is easily readable.
 - Please make sure also that your paper contains no headers, no footers, and no page numbers. This information will be added by the conference publication team.
 
