@@ -31,6 +31,7 @@ All Registration fees are in Canadian dollars (CAD) and include  VAT (13%). All 
   - Doctoral track:
     - Student registration (IEEE): $950
     - Student registration (non-IEEE): $1,050
+  - Extra page: $350/page (max of 2)
 - Regular Participants
   - IEEE member: $950
   - Non-IEEE member: $1,050
