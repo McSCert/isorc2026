@@ -22,8 +22,6 @@ title: Program Committee
 - Dr. Daniel Casini, Scuola Superiore Sant'Anna, Italy
 - Dr. Hoon Sung Chwa, Daegu Gyeongbuk Institute of Science & Technology, DGIST, South Korea (IEEE)
 - Dr. Marcello Cinque, University of Naples, Italy
-- Dr. Luca Davoli, University of Parma, Italy (IEEE)
-- Dr. Christian Carmine Esposito, University of Salerno, Italy (IEEE)
 - Dr. Sebastien Faucou, University of Nantes, France
 - Dr. Aniruddha Gokhale, Vanderbilt University, USA (IEEE)
 - Dr. Emmanuel Grolleau, ISAE-ENSMA, Poitiers, France
@@ -44,7 +42,6 @@ title: Program Committee
 - Dr. Andreas Polze, Hasso-Plattner-Institut (HPI), Germany (IEEE)
 - Dr. Peter Puschner, Vienna University of Technology, Vienna, Austria
 - Dr. Christine Rochange, University of Toulouse, CNRS-IRIT, France
-- Dr. Yogesh Simmhan, Indian Institute of Science, Bengaluru, India (IEEE)
 - Dr. Michal Sojka, Czech Technical University in Prague, Czech
 - Dr. Tullio Vardanega, University of Padua, Italy (IEEE)
 - Dr. Peter Wägemann, Friedrich-Alexander University Erlangen-Nürnberg (FAU), Germany
