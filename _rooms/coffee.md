@@ -1,5 +1,5 @@
 ---
-name: Lunch & Posters (HH/305)
+name: Lunch & Posters (BSB 106)
 ---
 
 TBA
