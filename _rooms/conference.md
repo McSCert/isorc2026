@@ -1,5 +1,5 @@
 ---
-name: Hamilton Hall (HH/302)
+name: Burke Science Building (BSB 108)
 ---
 ## Hamilton Hall
 
