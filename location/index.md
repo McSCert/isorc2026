@@ -35,9 +35,21 @@ The Faculty of Engineering promotes a nurturing and inclusive environment where 
 - Hamilton International Airport (YHM):
   - Hourly shuttle buses connect the airport with downtown Hamilton hotels.
 
+#### Public Transportation
+
+McMaster University is well connected by public transit, including GO Transit and Hamilton Street Railway (HSR) bus services. Several routes stop directly on or near campus, making it convenient to travel from Toronto and the surrounding areas.
+
+For detailed routes and schedules information, please refer to the bus services page:
+[https://discover.mcmaster.ca/directions/?tab=bus-services#tab-content-bus-services](https://discover.mcmaster.ca/directions/?tab=bus-services#tab-content-bus-services)
+
 
 #### Parking
 
 McMaster University offers several parking options for visitors, including both daily and hourly rates. For detailed parking information, including locations and fees, visit the university’s Parking Services page.
+
+#### Campus Navigation
+
+To help you find buildings, parking lots, and other locations on campus, please use the interactive campus map:
+[https://discover.mcmaster.ca/map/](https://discover.mcmaster.ca/map/)
 
 
