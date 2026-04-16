@@ -1,5 +1,5 @@
 ---
-name: Burke Science Building (BSB 108)
+name: Conference (BSB 108)
 ---
 ## Hamilton Hall
 
