@@ -1,16 +1,17 @@
 ---
 name: Conference (BSB 108)
 ---
-## Hamilton Hall
+## Burke Science Building
 
 <img src="/isorc2026/assets/images/hamilton_hall.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
-Steeped in history and classic collegiate charm, Hamilton Hall stands as one of McMaster University’s most iconic architectural landmarks. Opened in 1930, this striking Collegiate Gothic building is renowned for its picturesque, ivy-draped stone walls and vibrant central location on campus. Currently housing the Department of Mathematics and Statistics, Hamilton Hall offers visiting attendees a beautiful glimpse into the university's rich heritage and provides an inspiring, timeless backdrop for our conference.
+The Burke Science Building is a hub for scientific research and innovation. It provides state-of-the-art facilities for researchers and students to conduct experiments and studies across various scientific disciplines.
+With a focus on advancing knowledge and pushing the boundaries of science, the Burke Science Building fosters collaboration and exploration in a dynamic and stimulating environment.
 
-## HH 302
+## BSB 108
 
 <img src="/isorc2026/assets/images/HH 302_RoomLowerLeft_1.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin:15px 0;" />
 
-HH 302 is a fully equipped lecture theatre designed for presentations and technical sessions. The room features a large projection system, built-in audio, and multiple connectivity options for laptops and devices. Seating consists of fixed tiered chairs with retractable tablet arms.
+BSB 108 is a fully equipped lecture theatre designed for presentations and technical sessions. The room features a large projection system, built-in audio, and multiple connectivity options for laptops and devices. Seating consists of fixed tiered chairs with retractable tablet arms.
