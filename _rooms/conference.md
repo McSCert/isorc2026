@@ -12,6 +12,6 @@ With a focus on advancing knowledge and pushing the boundaries of science, the B
 ## BSB 108
 
 <img src="/isorc2026/assets/images/BSB 108_RoomFrontRight.jpg" 
-     style="width:100%; max-height:350px; object-fit:cover; border-radius:8px; margin:15px 0;" />
+     style="width:100%; max-height:350px; object-fit:cover; object-position: center 30%; border-radius:8px; margin:15px 0;" />
 
 BSB 108 is a fully equipped lecture theatre designed for presentations and technical sessions. The room features a projection system, built-in audio, and multiple connectivity options for laptops and devices. Seating consists of fixed tiered chairs with non-retractable tablet arms.
