@@ -3,7 +3,7 @@ days:
   abbr: We
   date: 2026-05-27
   rooms:
-  - name: Hamilton Hall (HH/302)
+  - name: Conference (BSB 108)
     talks:
       - name: Registration
         time_start: '08:15'
@@ -46,7 +46,7 @@ days:
   abbr: Th
   date: 2026-05-28
   rooms:
-  - name: Hamilton Hall (HH/302)
+  - name: Conference (BSB 108)
     talks:
       - name: Registration
         time_start: '08:30'
@@ -90,7 +90,7 @@ days:
   abbr: Fr
   date: 2026-05-29
   rooms:
-  - name: Hamilton Hall (HH/302)
+  - name: Conference (BSB 108)
     talks:
       - name: Registration
         time_start: '08:30'
