@@ -2,7 +2,7 @@
 name: Lunch & Posters (BSB 106)
 ---
 
-### BSE 106
+### Lunch & Posters (BSB 106)
 
 <img src="/isorc2026/assets/images/BSB 106_RoomRearRight.jpg" 
      style="width:100%; max-height:350px; object-fit:cover; object-position: center 40%; border-radius:8px; margin:15px 0;" />
