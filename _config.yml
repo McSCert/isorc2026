@@ -86,6 +86,14 @@ conference:
             relative_url: /attending/hotels.html
           - name: Visa & Travel
             relative_url: /attending/visa.html
+      - name: Program
+        menu:
+          - name: Program Overview
+            relative_url: /program/overview.html
+          - name: Keynote
+            relative_url: /program/keynote.html
+          - name: Detailed Program
+            relative_url: /program/
       - name: Committees
         menu:
           - name: Organization Commitee
@@ -102,8 +110,6 @@ conference:
             relative_url: /cfp/doctoral.html
           - name: Camera Ready instructions
             relative_url: /cfp/camera_ready.html
-      - name: Program
-        relative_url: /program/
       - name: Talks
         relative_url: /talks/
       - name: Previous Editions
