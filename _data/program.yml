@@ -24,7 +24,7 @@ days:
         time_start: '16:00'
         time_end: '17:30'
 
-  - name: Lunch & Posters (BSB 106)
+  - name: Lunch & Posters (BSB 104)
     talks:
       - name: Coffee Break
         time_start: '10:15'
@@ -64,7 +64,7 @@ days:
         time_start: '14:00'
         time_end: '15:30'
 
-  - name: Lunch & Posters (BSB 106)
+  - name: Lunch & Posters (BSB 104)
     talks:
       - name: Coffee Break
         time_start: '10:15'
@@ -111,7 +111,7 @@ days:
         time_start: '15:15'
         time_end: '15:30'
 
-  - name: Lunch & Posters (BSB 106)
+  - name: Lunch & Posters (BSB 104)
     talks:
       - name: Coffee Break
         time_start: '10:15'
