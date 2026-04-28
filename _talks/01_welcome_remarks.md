@@ -1,5 +1,5 @@
 ---
-name: Welcome Remarks
+name: Welcome to ISORC 2026
 speakers:
   - Sébastien Mosser
 track: General

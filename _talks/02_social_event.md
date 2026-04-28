@@ -1,8 +1,7 @@
 ---
-name: Social Event
+name: Trip to Niagara Falls
 track: Social
 tags: 
-  - social
+  - social event
 ---
-Hike to Princess Point
-MARC Visit
+TBA

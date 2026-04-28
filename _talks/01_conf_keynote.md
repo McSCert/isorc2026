@@ -1,5 +1,5 @@
 ---
-name: Keynote
+name: Keynote Talk
 speakers:
   - Keynote Speaker
 track: Plenary

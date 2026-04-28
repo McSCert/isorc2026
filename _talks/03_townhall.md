@@ -1,5 +1,5 @@
 ---
-name: Townhall
+name: Town Hall discussion
 speakers:
 track: Plenary
 tags:
