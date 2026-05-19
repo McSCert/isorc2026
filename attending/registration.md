@@ -49,7 +49,7 @@ All Registration fees are in Canadian dollars (CAD) and include  VAT (13%). All 
   - Student (IEEE): $1,000
   - Student (non-IEEE): $1,050
   - IEEE Lifetime member: $1,000
-
+- One-day registration: $450
 
 
 

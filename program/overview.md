@@ -61,13 +61,10 @@ We encourage all attendees to participate actively in the extended discussion pe
 - 11:15 - 11:45: Slowdown Modeling under Interference in Spatially Partitioned GPUs (S. Mobaiyen, M. Sjödin, S. Mubeen)
 - 11:45 - 12:15: Power-Performance Trade-offs using Offline Reinforcement Learning for Compute Workloads (A. Raj, S. Perarnau, S. Bekele, A. Gokhale)
 
-#### Industry Panel
-
-- 14:00 - 15:00: TBA
-
 #### Social Event 
 
-- 15:30 - 23:30: Trip to Niagara Falls (to be confirmed)
+- 14:30 - 23:30: Niagara Falls Excursion
+  - 
 
 ## Friday 28/05
 
