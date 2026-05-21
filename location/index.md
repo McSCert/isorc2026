@@ -47,7 +47,13 @@ For detailed routes and schedules information, please refer to the bus services 
 
 McMaster University offers several parking options for visitors, including both daily and hourly rates. For detailed parking information, including locations and fees, visit the university’s Parking Services page.
 
+ISORC 2026 participants can get a discounted day rate on Lot G and H (use the code received in the welcoming email)
+
 #### Campus Navigation
+
+
+<img src="/isorc2026/assets/images/map.png" 
+     style="object-fit:cover; border-radius:8px; margin-bottom:20px;" />
 
 To help you find buildings, parking lots, and other locations on campus, please use the interactive campus map:
 [https://discover.mcmaster.ca/map/](https://discover.mcmaster.ca/map/)
