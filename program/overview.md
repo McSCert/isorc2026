@@ -63,8 +63,8 @@ We encourage all attendees to participate actively in the extended discussion pe
 
 #### Social Event 
 
-- 14:30 - 23:30: Niagara Falls Excursion
-  - 
+- 14:30 - 23:30: Niagara Falls Excursion (limited to participants who registered for it)
+  - Participants to arrange their own dinner in Niagara Falls
 
 ## Friday 28/05
 
