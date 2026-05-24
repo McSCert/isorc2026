@@ -29,10 +29,6 @@ title: Organization Committee
 - Dr. Peter Puschner, TU Wien, Austria
 
 
-### Industry Panel Chair
-
-- TBA
-
 ### Proceedings Chair
 
 - Dr. Vera Pantelic,  McMaster Centre for Software Certification, Canada (IEEE)
