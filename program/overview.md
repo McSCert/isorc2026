@@ -49,8 +49,10 @@ We encourage all attendees to participate actively in the extended discussion pe
 
 #### Welcome Dinner (Social Event)
 
-- 18:30 - ...: Gastronomic dinner in the Buttery's patio
-
+- 18:30 - 21:00: Gastronomic dinner in the Buttery's patio (weather permitting)
+  - 18:30: Bar opens
+  - 19:00: Opening remarks and short speech
+  - 19:15: Dinner service begins
 
 ## Thursday 28/05
 
@@ -71,7 +73,7 @@ We encourage all attendees to participate actively in the extended discussion pe
 - 11:15 - 11:45: Slowdown Modeling under Interference in Spatially Partitioned GPUs (S. Mobaiyen, M. Sjödin, S. Mubeen)  <img src="/isorc2026/assets/picto/video.svg" style="max-height:1em;"/>
 - 11:45 - 12:15: Power-Performance Trade-offs using Offline Reinforcement Learning for Compute Workloads (A. Raj, S. Perarnau, S. Bekele, A. Gokhale)
 
-#### Social Event 
+#### Excursion (Social Event)
 
 - 14:15 - 21:30: Niagara Falls Excursion (limited to participants who registered for it)
   - 14:15: Departure from McMaster
@@ -102,6 +104,10 @@ We encourage all attendees to participate actively in the extended discussion pe
 - 10:45 - 11:15: A Context-Aware Trust Management and Calibration Framework for Cyber-Physical Systems (W. Khan, S. Fischmeister)
 - 11:15 - 11:45: Cross-MAC IDS for Denial-of-Sleep Detection in Wireless Sensor Networks (D. Amoruso, B. Boi, C. Esposito)
 - 11:45 - 12:15: Power-Based Security Monitoring: Non-Invasive Detection of Task Execution Violations in Real-Time Systems (M. Haldar, J. Patel, S. Fischmeister)
+
+#### Spring Barbecue (Social Event)
+
+- Join us for a nice barbecue to celebrate the last day of ISORC 2026!
 
 #### Real-Time Networking in Adversarial Environments
 
