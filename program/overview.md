@@ -18,9 +18,11 @@ We encourage all attendees to participate actively in the extended discussion pe
 ## Wednesday 27/05
 
 #### Opening Session
+
 - Session Chair: Dr. Alan Wassyng
+
 - 09:00 - 09:15: Welcome to ISORC 2026
-- 09:15 - 10:15: Keynote Talk (Mario Trapp, TUM)
+- 09:15 - 10:15: Keynote Talk: [From Safety to Resilience](/isorc2026/program/keynote.html) (Prof. Dr. Mario Trapp, TUM)
 
 
 #### System and Software
@@ -94,7 +96,8 @@ We encourage all attendees to participate actively in the extended discussion pe
 - Session Chair: Dr. Sébastien Mosser
 
 - 09:00 - 09:15: General Annoucements 
-- 09:15 - 10:15: Town Hall discussion (Rob Pettit, Steering Committee chair)
+- 09:15 - 10:15: Town Hall discussion 
+  - Panelists: Dr. Rob Pettit (George Mason University, Steering Committee chair), Dr. Gabor Karsai (Vanderbilt University), Dr. Mathias Pacher (DHBW Karlsruhe)
 
 
 #### Security and intrusion detection
