@@ -37,7 +37,7 @@ We encourage all attendees to participate actively in the extended discussion pe
 
 - Session Chair: Dr. Gabor Karsai
 
-- 14:00 - 14:30: Timing‑Aware Configuration Framework for TSN and OPC~UA in Industrial Automation Systems (K. Ekrad, B. Johansson, I. Vadillo, S. Mubeen, M. Ashjaei)  <img src="/isorc2026/assets/picto/video.svg" style="max-height:1em;"/>
+- 14:00 - 14:30: Timing‑Aware Configuration Framework for TSN and OPC UA in Industrial Automation Systems (K. Ekrad, B. Johansson, I. Vadillo, S. Mubeen, M. Ashjaei)  <img src="/isorc2026/assets/picto/video.svg" style="max-height:1em;"/>
 - 14:30 - 15:00: An Open-Source Framework to Emulate Delay and Disruption Tolerant Networks for International Space Station Communication (K. Grover, M. Ponce)
 - 15:00 - 15:30: ipc_shared_ptr: A Publish/Subscribe-Aware Smart Pointer for Cross-Process Object Lifetime Management (T. Ishikawa-Aso, A. Yano, K. Imai, T. Azumi, S. Kato)
 
